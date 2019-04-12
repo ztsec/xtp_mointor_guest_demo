@@ -16,3 +16,15 @@ host_monitor_password 为xtp monitor client端登录的密码，由用户自行�
 （5）登录成功后，可以上传文本文件
 
 注意：monitor guest程序断线的时候，会导致monitor client断线
+
+
+使用CMake生成工程文件：
+linux下：
+（1）安装cmake
+（2）进入demo文件夹，新建build目录
+（3）进入build目录
+（4）命令行键入：cmake ..   
+注意：如果是Debug模式，需要使用 cmake .. -DCMAKE_BUILD_TYPE=Debug
+（5）命令行键入：make 执行编译
+（6）可进入api目录下运行生成的demo程序
+
