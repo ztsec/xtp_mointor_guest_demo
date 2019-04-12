@@ -1,0 +1,7 @@
+{
+  "host_ip": "10.25.24.34",
+  "host_port": 7750,
+  "host_user": "MonitorGuestUserName",
+  "host_monitor_name": "MonitorClientName",
+  "host_monitor_password": "MonitorClientpw"
+}
