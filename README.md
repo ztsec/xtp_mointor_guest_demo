@@ -20,7 +20,7 @@ C++，只包含monitor guest api
 注意：monitor guest程序断线的时候，会导致monitor client断线  
 
 
-##使用CMake生成工程文件： 
+##使用CMake生成工程文件：   
 linux下：     
 （1）安装cmake   
 （2）进入demo文件夹，新建build目录  
